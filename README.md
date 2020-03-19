@@ -1,2 +1,2 @@
-[辣条](www.baidu.com)
+[辣条](http://www.baidu.com)
 
